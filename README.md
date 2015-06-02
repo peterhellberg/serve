@@ -18,7 +18,7 @@ go get -u github.com/peterhellberg/serve
 ```bash
 $ serve --help
 Usage of serve:
-  -port="127.0.0.1:9000": Define what TCP port to bind to
+  -addr="0.0.0.0:9000": Define what TCP address (host:port) to bind to
   -root=".": Define the root filesystem path
 ```
 
