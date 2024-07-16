@@ -10,7 +10,7 @@ A really simple web server for static files.
 ## Installation
 
 ```
-go get -u github.com/peterhellberg/serve
+go install github.com/peterhellberg/serve@latest
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ Usage of serve:
 
 ## License (MIT)
 
-Copyright (c) 2014-2015 [Peter Hellberg](http://c7.se/)
+Copyright (c) 2014-2024 [Peter Hellberg](https://c7.se/)
 
 > Permission is hereby granted, free of charge, to any person obtaining
 > a copy of this software and associated documentation files (the
